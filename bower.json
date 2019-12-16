@@ -1,0 +1,17 @@
+{
+  "name": "state-observer",
+  "description": "tiny observerable state manager",
+  "main": "lib/index.js",
+  "authors": [
+    "Nikita Fedoseev <n.fedoseev@onpoint.ru>"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
