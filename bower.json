@@ -18,6 +18,7 @@
     "webpack.config.js",
     "babel.config.js",
     ".gitignore",
-    ".bowerrc"
+    ".bowerrc",
+    "index.js"
   ]
 }
