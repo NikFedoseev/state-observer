@@ -19,6 +19,7 @@
     "babel.config.js",
     ".gitignore",
     ".bowerrc",
-    "index.js"
+    "index.js",
+    "bower.json"
   ]
 }
