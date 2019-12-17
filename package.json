@@ -1,6 +1,6 @@
 {
   "name": "state-observer",
-  "version": "1.0.10",
+  "version": "1.0.14",
   "description": "",
   "main": "lib/index.js",
   "files": [
@@ -15,10 +15,10 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "lodash.isequal": "^4.5.0"
+    "lodash.isequal": "^4.5.0",
+    "@babel/polyfill": "^7.7.0"
   },
   "devDependencies": {
-    "@babel/polyfill": "^7.7.0",
     "@babel/cli": "^7.7.5",
     "@babel/core": "^7.7.5",
     "@babel/preset-env": "^7.7.6",
